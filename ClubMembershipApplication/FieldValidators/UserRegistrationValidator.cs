@@ -1,8 +1,5 @@
 using ClubMembershipApplication.Data;
 using FieldValidatorAPI;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace ClubMembershipApplication.FieldValidators
 {
